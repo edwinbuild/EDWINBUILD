@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Edwin Shaju 👋</h1>
+<h1 align="center">Hi, I'm Edwin S M 👋</h1>
 
 <p align="center">
   <b>Product Builder • UI/UX Designer • Full-Stack Developer • Hackathon Winner</b>
